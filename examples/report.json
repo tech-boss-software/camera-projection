@@ -1,0 +1,23 @@
+{
+  "camera": {
+    "fx": 420.0,
+    "fy": 420.0,
+    "cx": 320.0,
+    "cy": 220.0,
+    "near": 0.25,
+    "width": 640,
+    "height": 440
+  },
+  "camera_position_world": [
+    0.25,
+    -0.1,
+    0
+  ],
+  "camera_yaw_degrees": 8,
+  "scene": "Four generated cubes, including off-screen and behind-camera geometry",
+  "total_edges": 48,
+  "visible_edges": 24,
+  "partially_clipped_edges": 0,
+  "rejected_edges": 24,
+  "metric_note": "Visibility accounting, not a prediction-accuracy benchmark"
+}
